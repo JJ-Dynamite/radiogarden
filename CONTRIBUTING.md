@@ -1,4 +1,4 @@
-# Contributing to faang-radio-garden
+# Contributing to radiogarden
 
 Thank you for your interest in contributing!
 

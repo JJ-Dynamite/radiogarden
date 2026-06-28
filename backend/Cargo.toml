@@ -1,11 +1,11 @@
 [package]
-name = "faang-radio-garden-backend"
+name = "radiogarden-backend"
 version = "0.1.0"
 edition = "2021"
 description = "Listen to any global radio station - Backend API"
 authors = ["JJ-Dynamite"]
 license = "MIT"
-repository = "https://github.com/JJ-Dynamite/faang-radio-garden"
+repository = "https://github.com/JJ-Dynamite/radiogarden"
 
 [dependencies]
 axum = "0.7"
